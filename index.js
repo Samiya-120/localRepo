@@ -5,3 +5,8 @@ const Ayesha = {
   EmotionalState : "Emotionaly strong mature  ",
   martialStatus : "unmarried"
 }
+ let teacher = {
+   age : 20 ,
+   education : "BSCS",
+   emotionalStatus : "Emotionaly Strong , mature"
+}
