@@ -11,13 +11,5 @@ const Ayesha = {
    emotionalStatus : "Emotionaly Strong , mature"
 }
 
-const user = {
-    id :1,
-    name : "dropdown"
-}
 
- const userA = {
-    id :1,
-    name : "Button"
- }
-
+ 
