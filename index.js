@@ -10,3 +10,7 @@ const Ayesha = {
    education : "BSCS",
    emotionalStatus : "Emotionaly Strong , mature"
 }
+ const user = {
+    id :1,
+    name : "Button"
+ }
